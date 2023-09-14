@@ -1,6 +1,4 @@
 # CV-Rhytm-Beat
-# [https://github.com/timpt0261/cv_rythm_beat](https://github.com/reavisjordan/cv_rythm_beat)
-
 CV Rhythm Beat is a rhythm game designed as a VR experience for those who may not have access to headsets, controllers, and other expensive equipment. Developed in Unity, CVRB utilizes Python libraries CVZone and MediaPipe to capture your hands through a webcam and use them as controllers. Line up your hands, and hit the moving squares as they overlap with the static ones to increase your score!
 
 # How to Play
